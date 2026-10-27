@@ -1,24 +1,28 @@
-# tugas2
+# Tugas2Ut
 
-## Project setup
-```
+Aplikasi Sistem Informasi Bahan Ajar Universitas Terbuka.
+
+## Fitur
+- Data stok bahan ajar
+- Pencarian dan filter bahan ajar
+- Pengelolaan data stok
+- Tracking Delivery Order (DO)
+- Input Delivery Order baru
+
+## Teknologi
+- Vue.js
+- JavaScript
+- Bootstrap 5
+
+## Instalasi
+
+Pastikan Node.js dan npm sudah terpasang.
+
+Jalankan perintah berikut di terminal proyek:
+
+```bash
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Kemudian buka alamat lokal yang ditampilkan oleh terminal.
